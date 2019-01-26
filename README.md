@@ -1,3 +1,4 @@
+First RectJS App :)
 ![alt text](IMG.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
