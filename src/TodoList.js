@@ -13,7 +13,7 @@ export class TodoList extends React.Component {
         );
         return (  
           //Add your code here to represent a TODO
-          <ul>{todos} </ul> 
+          <ul class="w3-ul w3-card" >{todos} </ul> 
         );
     }
 
